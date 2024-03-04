@@ -1,0 +1,4 @@
+2024-02-22T12:24:43+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Blocks\Payments\PaymentMethodRegistry.php à la ligne 11
+
+2024-02-22T12:31:59+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\Requests\src\Transport\Curl.php à la ligne 534
+

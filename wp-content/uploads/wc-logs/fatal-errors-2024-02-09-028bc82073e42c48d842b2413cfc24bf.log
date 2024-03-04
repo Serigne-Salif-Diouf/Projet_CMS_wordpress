@@ -1,0 +1,16 @@
+2024-02-09T16:35:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\API\CustomAttributeTraits.php à la ligne 8
+
+2024-02-09T16:35:25+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\API\ProductsLowInStock.php à la ligne 10
+
+2024-02-09T16:35:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\RemoteInboxNotifications\GetRuleProcessor.php à la ligne 8
+
+2024-02-09T16:35:35+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Admin\API\Reports\Customers\Stats\Controller.php à la ligne 10
+
+2024-02-09T16:36:54+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\wc-template-functions.php à la ligne 76
+
+2024-02-09T16:36:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\themes\kadence\inc\components\styles\component.php à la ligne 45
+
+2024-02-09T16:36:55+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\themes\kadence\inc\components\styles\component.php à la ligne 45
+
+2024-02-09T16:37:09+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\kadence-blocks\includes\class-local-gfonts.php à la ligne 12
+

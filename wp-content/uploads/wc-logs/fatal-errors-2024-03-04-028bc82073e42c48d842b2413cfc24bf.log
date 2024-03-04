@@ -1,0 +1,10 @@
+2024-03-04T13:35:08+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\src\Blocks\Assets\Api.php à la ligne 112
+
+2024-03-04T13:35:40+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\woocommerce\includes\class-wc-autoloader.php à la ligne 53
+
+2024-03-04T13:53:13+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\plugins\kadence-blocks\vendor\vendor-prefixed\stellarwp\telemetry\src\Telemetry\Contracts\Subscriber_Interface.php à la ligne 28
+
+2024-03-04T13:58:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-content\themes\kadence\inc\components\template_tags.php à la ligne 132
+
+2024-03-04T14:00:18+00:00 CRITICAL Maximum execution time of 120 seconds exceeded dans C:\xampp\htdocs\wordpress\wp-includes\functions.php à la ligne 4593
+
